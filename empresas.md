@@ -87,10 +87,4 @@ Respuesta: A Aplicaciones Centro (C), porque desarrolla aplicaciones de gestión
 **Empresa elegida:** B · RedesMancha
 
 ```text
-Socios (2): dirigen la empresa
-  - Socio comercial (1): visita a los clientes y prepara los presupuestos
-  - Jefe técnico (1): planifica los trabajos
-  - Técnicos de instalación (7): instalan redes y servidores y se desplazan a los clientes
-  - Soporte técnico (2): atienden incidencias por teléfono y en remoto
-  - Administración (1): facturas, contratos y pagos
-```
+
